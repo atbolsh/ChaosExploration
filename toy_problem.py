@@ -1,3 +1,12 @@
+### DO NOT USE THIS!!
+### This is not how Hausdorff dimension works.
+### I will need DIAMETER, not AREA contraction ratios.
+### I left this here purely as a warning.
+###
+###
+### I will revisit this module once I can compute diameter contraction ratios. My notebook is close.
+
+
 import numpy as np
 import numpy.linalg as la
 import math
